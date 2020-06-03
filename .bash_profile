@@ -1,0 +1,1 @@
+alia npp='notepad++.exe --multiInst --nosession'
